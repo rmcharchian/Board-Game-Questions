@@ -18,6 +18,8 @@
   "homepage": "https://github.com/rmcharchian/Board-Game-Questions#readme",
   "description": "",
   "dependencies": {
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9",
     "body-parser": "^1.18.2",
     "pg": "^7.4.1"
   }
